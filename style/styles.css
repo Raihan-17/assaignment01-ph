@@ -1,0 +1,73 @@
+.work-sans-fira {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.sec1{
+    border-radius: 14px;
+    background: rgb(198, 228, 214);
+position: static;
+width: 857.6px;
+height: 375.2px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 64;
+padding: 53.6px 67px 53.6px 67px;
+justify-content: space-between;
+order: 0;
+flex-grow: 0;
+margin: auto;
+}
+
+.img1{
+  /* Group */
+position: absolute;
+width: 474.03px;
+height: 329.21px;
+left: 48%;
+top: 14%;
+bottom: -2.3%;
+margin: 0px 43px;
+}
+.sec1-txt{
+    max-width: 60%;
+}
+.sec1-txt   h1{
+    color: rgb(14, 14, 14);
+font-size: 37.52px;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0%;
+text-align: left;
+margin: 10px 0px;
+/* Idea , innovation , vision and challenges in New Bangladesh. */
+position: static;
+width: 415px;
+height: 134px;
+
+
+
+}
+.sec1-txt   p{ 
+    color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: left;
+margin: 10px 0px;
+}
+.sec1-btn{
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+border: none;
+background: rgb(0, 106, 80);
+}
