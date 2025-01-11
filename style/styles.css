@@ -288,7 +288,7 @@ background: rgb(241, 240, 240);
 .idt{
     width: 490px;
 height: 32px;
-margin-left: 300px;
+margin-left: 180px;
 }
 #eml{
     padding: 12px 27px 12px 27px;
@@ -317,6 +317,7 @@ border: none;
 }
 #fix1{
     margin-bottom: 30px;
+   
 }
 button:hover {
     background-color: rgb(78, 176, 241);
