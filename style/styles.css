@@ -221,6 +221,9 @@ line-height: 32px;
      width: 180px;
      height: 85px;
     padding: 27px;
+    font-size: 25px;
+font-weight: 550;
+color: rgba(14, 14, 14, 0.8);
     }
     #donate2{
         box-sizing: border-box;
@@ -230,6 +233,9 @@ line-height: 32px;
      height: 85px;
     padding: 27px;
      background: rgb(198, 228, 214);
+     font-size: 25px;
+font-weight: 550;
+color: rgba(14, 14, 14, 0.8);
     }
     #donate3{
         box-sizing: border-box;
@@ -239,6 +245,9 @@ line-height: 32px;
      width: 180px;
      height: 85px;
     padding: 27px;
+    font-size: 25px;
+font-weight: 550;
+color: rgba(14, 14, 14, 0.8);
     }
     #donate4{
         box-sizing: border-box;
@@ -248,6 +257,9 @@ line-height: 32px;
      width: 180px;
      height: 85px;
     padding: 27px;
+    font-size: 25px;
+font-weight: 550;
+color: rgba(14, 14, 14, 0.8);
     }
    #dtaka{
     width: 800px;
@@ -264,11 +276,14 @@ background: rgb(241, 240, 240);
    }
 
    .sub-ft{ 
+    width: 854px;
+    height: 264px;
     margin-top: 65px; 
     margin-bottom: 65px; 
     border-radius: 24px;
     padding:  50px 68px 53px 68px;
     background: rgb(198, 228, 214);
+    margin-left: 135px;
 }
 .idt{
     width: 490px;
@@ -304,7 +319,21 @@ border: none;
     margin-bottom: 30px;
 }
 button:hover {
-    background-color: rgb(184, 114, 225);
-    color: black;
+    background-color: rgb(78, 176, 241);
+    color: rgb(90, 17, 4);
     cursor: pointer;
+  }
+  .quot{
+    margin-left: 135px;
+    width: 880px;
+    height: 170px;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 10px;
+padding: 20px 16px 20px 16px;
+background: rgb(255, 255, 255);
+  }
+  #bacgrnd{
+    background-image: url(../assets/quote-bg.png) ;
+    background-repeat: no-repeat;
+    background-origin: border-box;
   }
