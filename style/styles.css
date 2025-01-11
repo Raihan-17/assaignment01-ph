@@ -324,12 +324,12 @@ button:hover {
     cursor: pointer;
   }
   .quot{
-    margin-left: 135px;
-    width: 880px;
-    height: 170px;
+    margin-left: 130px;
+    width: 950px;
+    height: 190px;
     border: 1px solid rgba(14, 14, 14, 0.15);
     border-radius: 10px;
-padding: 20px 16px 20px 16px;
+padding: 15px 16px 20px 16px;
 background: rgb(255, 255, 255);
   }
   #bacgrnd{
