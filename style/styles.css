@@ -23,7 +23,6 @@ margin: auto;
 }
 
 .img1{
-  /* Group */
 position: absolute;
 width: 474.03px;
 height: 329.21px;
@@ -43,13 +42,9 @@ line-height: 45px;
 letter-spacing: 0%;
 text-align: left;
 margin: 10px 0px;
-/* Idea , innovation , vision and challenges in New Bangladesh. */
 position: static;
 width: 415px;
 height: 134px;
-
-
-
 }
 .sec1-txt   p{ 
     color: rgba(14, 14, 14, 0.5);
@@ -70,4 +65,76 @@ margin: 10px 0px;
     border-radius: 8px;
 border: none;
 background: rgb(0, 106, 80);
+}
+
+.conteiner{
+    
+     margin-top: 65px; 
+     padding-left: 130px; 
+     margin-bottom: 65px; 
+     padding-right: 130px; 
+}
+.ctitle{
+    font-size: 23px;
+}
+.csubtitle{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0%;
+text-align: left;
+margin-bottom: 30px;
+}
+.cards{
+    display: flex;
+    gap: 30px;
+    padding: 0px;
+   
+}
+.card{
+    box-shadow:0px 6px 50px 0px rgb(235, 232, 232) ;
+    padding: 20px;
+    border-radius: 10px;
+}
+.paragr{
+    color: rgba(14, 14, 14, 0.7);
+font-size: 12px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+
+}
+#ca1{
+  background: rgba(84, 144, 245, 0.2);
+}
+
+#ca2{
+    background: rgb(198, 228, 214);
+}
+
+#ca3{
+    background: rgb(247, 235, 207);
+}
+#cb1{
+    color: white;
+    padding: 11px 20px 11px 20px;
+    border-radius: 6px;
+border: none;
+background: rgb(84, 144, 245);
+}
+#cb2{
+    color: white;
+    padding: 11px 20px 11px 20px;
+    border-radius: 6px;
+border: none;
+background:rgb(9, 161, 92);
+}
+#cb3{
+    color: white;
+    padding: 11px 20px 11px 20px;
+    border-radius: 6px;
+border: none;
+background:rgb(255, 194, 57);
 }
