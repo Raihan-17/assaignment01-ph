@@ -190,3 +190,121 @@ font-weight: 700;
 line-height: 26px;
 
 }
+.ntitle{
+    color: rgb(14, 14, 14);
+font-size: 35px;
+font-weight: 700;
+line-height: 32px;
+}
+
+.d-tlt{
+    text-align: center;
+}
+.d-btn{
+    color: white;
+    border: 1px solid rgba(14, 14, 14, 0.1);;
+    border-radius: 6px;
+    padding: 12px 23px 12px 23px;
+      background: rgb(0, 106, 80);
+    }
+    #donate-card{
+        display: flex;
+        justify-content: space-around; 
+        margin-bottom: 20px;
+    }
+    
+    #donate1{
+        box-sizing: border-box;
+     border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+     width: 180px;
+     height: 85px;
+    padding: 27px;
+    }
+    #donate2{
+        box-sizing: border-box;
+     border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 10px;
+     width: 180px;
+     height: 85px;
+    padding: 27px;
+     background: rgb(198, 228, 214);
+    }
+    #donate3{
+        box-sizing: border-box;
+     border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+     width: 180px;
+     height: 85px;
+    padding: 27px;
+    }
+    #donate4{
+        box-sizing: border-box;
+     border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 10px;
+    background: rgb(255, 255, 255);
+     width: 180px;
+     height: 85px;
+    padding: 27px;
+    }
+   #dtaka{
+    width: 800px;
+height: 30px;
+padding: 13px 26px 13px 26px;
+border: none;
+margin-left:70px ;
+background: rgb(241, 240, 240);
+    text-align: center;
+   }
+   .d-foot{
+    margin-left: 450px ;
+    margin-top: 30px;
+   }
+
+   .sub-ft{ 
+    margin-top: 65px; 
+    margin-bottom: 65px; 
+    border-radius: 24px;
+    padding:  50px 68px 53px 68px;
+    background: rgb(198, 228, 214);
+}
+.idt{
+    width: 490px;
+height: 32px;
+margin-left: 300px;
+}
+#eml{
+    padding: 12px 27px 12px 27px;
+    width: 400px;
+    height: 25px;
+    border: none;
+    border-radius: 5px 0px 0px 5px;
+background: rgb(255, 255, 255);
+
+}
+#sbtn{
+    border-radius: 0px 5px 5px 0px;
+    width: 150px;
+    height: 49px;
+    padding: 17px 34px 17px 34px;
+    color: white;
+background: rgb(0, 106, 80);
+border: none;
+}
+.pair{
+    display: flex;
+    justify-content: center;
+}
+#fix{
+    margin-top: 20px;
+}
+#fix1{
+    margin-bottom: 30px;
+}
+button:hover {
+    background-color: rgb(184, 114, 225);
+    color: black;
+    cursor: pointer;
+  }
